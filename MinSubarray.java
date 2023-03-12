@@ -9,7 +9,7 @@ public class MinSubarray {
             if(A%i==0)
             {
                 if(i==A/i){
-                    factors+=1;
+                    factors+=1 ;
                 }
                 else{
                     factors+=2;
