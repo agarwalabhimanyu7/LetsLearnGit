@@ -25,4 +25,4 @@ public class MinSubarray {
         System.out.println(result);
     }
 }
-}
+
